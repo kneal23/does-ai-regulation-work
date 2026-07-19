@@ -1,0 +1,64 @@
+{
+  "title": "Global GenAI Adoption & Impact Index (GAAII) 2022\u20132025",
+  "id": "gaaii/global-genai-adoption-impact-index",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "generative ai",
+    "artificial intelligence",
+    "policy",
+    "regulation",
+    "adoption",
+    "society",
+    "economics",
+    "labor market",
+    "misinformation",
+    "deepfakes",
+    "llm",
+    "chatgpt",
+    "public trust",
+    "digital equity",
+    "global",
+    "longitudinal",
+    "survey data",
+    "time series",
+    "nlp",
+    "social science",
+    "government",
+    "education"
+  ],
+  "collaborators": [],
+  "data": [
+    {
+      "path": "gaaii_country_year.csv",
+      "description": "Core panel dataset \u2014 150 countries \u00d7 4 years \u00d7 63 variables covering adoption, economics, policy, education, infrastructure, trust, equity, and research"
+    },
+    {
+      "path": "gaaii_policy_events.csv",
+      "description": "520 granular AI policy events (laws, strategies, consultations) with status tracking and impact scoring"
+    },
+    {
+      "path": "gaaii_incidents.csv",
+      "description": "1,800 documented GenAI-related harms and incidents with severity, sector, tool, and resolution metadata"
+    },
+    {
+      "path": "gaaii_survey_microdata.csv",
+      "description": "22,989 individual-level survey responses across 20 countries on GenAI usage frequency, trust, fear, and spending (2023\u20132025)"
+    },
+    {
+      "path": "gaaii_model_releases.csv",
+      "description": "70 major GenAI model releases (2022\u20132025) with benchmark scores, parameter counts, and organizational metadata"
+    },
+    {
+      "path": "gaaii_starter_eda.ipynb",
+      "description": "Kaggle starter notebook \u2014 10 analysis sections from EDA to ML classification"
+    },
+    {
+      "path": "README.md",
+      "description": "Full dataset documentation including methodology, column dictionary, and citation"
+    }
+  ]
+}

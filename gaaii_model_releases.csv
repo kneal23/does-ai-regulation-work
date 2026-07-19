@@ -1,0 +1,71 @@
+model_name,organization,hq_country,release_date,category,parameters_bn,open_source,multilingual,multimodal,benchmark_score_mmlu,huggingface_downloads_mn
+GPT-3.5-turbo,OpenAI,United States,2022-11-30,LLM,175,0,1,0,72.5,
+Stable Diffusion 1.4,Stability AI,United Kingdom,2022-08-22,Image Gen,0.86,1,0,1,68.2,42.0
+Stable Diffusion 1.5,Stability AI,United Kingdom,2022-10-20,Image Gen,0.86,1,0,1,70.1,89.3
+DALL-E 2,OpenAI,United States,2022-04-06,Image Gen,,0,0,1,65.0,
+Whisper,OpenAI,United States,2022-09-21,Speech,,1,1,0,88.1,31.0
+Codex,OpenAI,United States,2022-03-01,Code Gen,12,0,0,0,58.3,
+PaLM,Google,United States,2022-04-04,LLM,540,0,1,0,74.0,
+OPT-66B,Meta,United States,2022-05-03,LLM,66,1,0,0,60.2,8.4
+BLOOM,BigScience,France,2022-07-12,LLM,176,1,1,0,62.8,15.7
+Galactica,Meta,United States,2022-11-18,LLM,120,1,0,0,55.0,2.1
+ChatGPT (GPT-4),OpenAI,United States,2023-03-14,LLM,,0,1,1,86.4,
+LLaMA 1,Meta,United States,2023-02-24,LLM,65,1,0,0,63.4,18.9
+Claude 1,Anthropic,United States,2023-03-14,LLM,,0,1,0,79.2,
+Bard,Google,United States,2023-03-21,LLM,,0,1,0,75.0,
+Stable Diffusion XL,Stability AI,United Kingdom,2023-07-26,Image Gen,2.6,1,0,1,78.5,120.0
+Midjourney v5,Midjourney,United States,2023-03-15,Image Gen,,0,0,1,82.0,
+GPT-4V,OpenAI,United States,2023-09-25,Multimodal,,0,1,1,89.0,
+LLaMA 2,Meta,United States,2023-07-18,LLM,70,1,0,0,72.1,88.0
+Mistral 7B,Mistral AI,France,2023-09-27,LLM,7,1,0,0,68.4,220.0
+Falcon 40B,TII,UAE,2023-05-25,LLM,40,1,0,0,65.0,24.0
+Orca 2,Microsoft,United States,2023-11-18,LLM,13,1,0,0,66.2,19.0
+Gemini Ultra,Google,United States,2023-12-06,Multimodal,,0,1,1,90.0,
+Yi-34B,01.AI,China,2023-11-02,LLM,34,1,1,0,67.0,31.0
+Qwen,Alibaba,China,2023-08-03,LLM,14,1,1,0,66.5,55.0
+InternLM,Shanghai AI Lab,China,2023-06-07,LLM,20,1,1,0,63.0,28.0
+Phi-1.5,Microsoft,United States,2023-09-11,LLM,1.3,1,0,0,64.0,42.0
+GPT-4o,OpenAI,United States,2024-05-13,Multimodal,,0,1,1,92.0,
+Claude 3 Opus,Anthropic,United States,2024-03-04,LLM,,0,1,1,88.7,
+Claude 3.5 Sonnet,Anthropic,United States,2024-06-20,LLM,,0,1,1,90.2,
+Gemini 1.5 Pro,Google,United States,2024-02-15,Multimodal,,0,1,1,91.5,
+LLaMA 3,Meta,United States,2024-04-18,LLM,70,1,1,0,79.5,310.0
+LLaMA 3.1 405B,Meta,United States,2024-07-23,LLM,405,1,1,0,85.1,180.0
+Mistral Large,Mistral AI,France,2024-02-26,LLM,,0,1,0,81.3,
+Mixtral 8x22B,Mistral AI,France,2024-04-17,LLM,141,1,1,0,77.8,92.0
+Command R+,Cohere,Canada,2024-04-04,LLM,104,0,1,0,74.2,
+Stable Diffusion 3,Stability AI,United Kingdom,2024-02-22,Image Gen,8,1,0,1,84.0,155.0
+FLUX.1,Black Forest Labs,Germany,2024-08-01,Image Gen,12,1,0,1,87.3,200.0
+Sora,OpenAI,United States,2024-02-15,Video Gen,,0,0,1,80.0,
+Kling,Kuaishou,China,2024-06-06,Video Gen,,0,1,1,75.0,
+Runway Gen-3,Runway,United States,2024-07-01,Video Gen,,0,0,1,78.0,
+Phi-3,Microsoft,United States,2024-04-23,LLM,14,1,0,0,72.5,180.0
+Qwen2,Alibaba,China,2024-06-07,LLM,72,1,1,1,80.0,250.0
+DeepSeek V2,DeepSeek,China,2024-05-07,LLM,236,1,1,0,81.2,195.0
+Aya 23,Cohere,Canada,2024-05-23,LLM,35,1,1,0,71.0,45.0
+Reka Core,Reka AI,United States,2024-04-15,Multimodal,,0,1,1,82.5,
+Pixtral,Mistral AI,France,2024-09-17,Multimodal,12,1,1,1,80.0,88.0
+Jamba,AI21 Labs,Israel,2024-03-28,LLM,52,1,1,0,75.5,38.0
+Nemotron-4,NVIDIA,United States,2024-06-14,LLM,340,1,0,0,78.0,12.0
+GPT-o1,OpenAI,United States,2024-09-12,Reasoning LLM,,0,1,0,94.0,
+Gemini 2.0,Google,United States,2024-12-11,Multimodal,,0,1,1,93.5,
+Claude 3.5 Haiku,Anthropic,United States,2024-11-04,LLM,,0,1,1,85.0,
+Qwen2.5,Alibaba,China,2024-09-19,LLM,72,1,1,1,83.2,320.0
+DeepSeek V3,DeepSeek,China,2024-12-26,LLM,671,1,1,0,87.0,410.0
+DeepSeek R1,DeepSeek,China,2025-01-20,Reasoning LLM,671,1,1,0,92.5,580.0
+Gemini 2.5 Pro,Google,United States,2025-03-25,Multimodal,,0,1,1,95.2,
+LLaMA 4,Meta,United States,2025-04-05,Multimodal,,1,1,1,93.0,620.0
+Mistral Small 3.1,Mistral AI,France,2025-03-17,Multimodal,24,1,1,1,82.0,190.0
+Phi-4,Microsoft,United States,2025-02-04,LLM,14,1,0,1,81.5,280.0
+Grok 3,xAI,United States,2025-02-17,LLM,,0,1,1,91.0,
+Claude 4 Sonnet,Anthropic,United States,2025-05-22,Multimodal,,0,1,1,94.5,
+Wan 2.1,Alibaba,China,2025-01-22,Video Gen,14,1,1,1,85.0,290.0
+Kling 2.0,Kuaishou,China,2025-03-10,Video Gen,,0,1,1,83.0,
+Stable Audio 2,Stability AI,United Kingdom,2025-02-01,Audio Gen,,1,0,0,79.0,95.0
+Gemma 3,Google,United States,2025-03-12,LLM,27,1,1,1,84.0,380.0
+Qwen3,Alibaba,China,2025-04-28,Reasoning LLM,235,1,1,1,94.0,520.0
+Falcon 3,TII,UAE,2025-01-08,LLM,10,1,1,0,76.0,140.0
+Jais 30B,MBZUAI,UAE,2025-02-15,LLM,30,1,1,0,74.5,60.0
+Aya Expanse,Cohere,Canada,2025-01-30,LLM,35,1,1,0,78.0,80.0
+SeaLLM 4,DAMO,Singapore,2025-02-20,LLM,8,1,1,0,72.0,45.0
+Sarvam 2B,Sarvam AI,India,2025-01-15,LLM,2,1,1,0,65.0,38.0

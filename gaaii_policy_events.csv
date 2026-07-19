@@ -1,0 +1,521 @@
+country,year,quarter,event_date,event_type,status,policy_impact_score,cross_border_implications,international_treaty_linked,civil_society_opposition_score,industry_lobbying_score,source_type
+Italy,2024,Q4,2024-12-28,AI Procurement Standards,In Committee,3.6,0,0,6.1,9.3,NGO Report
+Australia,2022,Q3,2022-08-08,GenAI Export Control,Withdrawn,4.4,0,1,3.0,7.0,Parliamentary Record
+Germany,2023,Q4,2023-10-18,AI Audit Requirement,In Committee,6.9,0,0,0.7,2.5,Press Release
+Canada,2022,Q4,2022-11-17,AI Copyright Amendment,Passed,9.7,1,0,6.9,5.7,Parliamentary Record
+South Korea,2025,Q2,2025-05-26,GenAI Moratorium Proposed,Passed,7.1,0,0,4.1,0.4,Press Release
+Israel,2023,Q3,2023-07-22,Generative AI Procurement Guidelines,Passed,3.0,1,0,6.2,3.9,NGO Report
+India,2023,Q2,2023-06-08,National AI Strategy Published,Proposed,9.9,0,0,5.5,4.0,Press Release
+Nigeria,2024,Q2,2024-04-02,AI Copyright Amendment,Enacted,9.0,1,0,5.0,8.4,Press Release
+Canada,2023,Q2,2023-04-05,AI in Healthcare Regulation,Proposed,4.4,0,0,5.7,1.3,Parliamentary Record
+New Zealand,2023,Q3,2023-08-08,GenAI Moratorium Proposed,Proposed,3.5,0,0,7.7,2.6,Official Gazette
+United States,2024,Q3,2024-09-28,AI Ethics Board Formed,Under Review,6.6,0,0,6.7,4.5,Parliamentary Record
+Mexico,2024,Q2,2024-05-15,GenAI Moratorium Proposed,Proposed,6.0,0,1,0.2,4.5,Parliamentary Record
+Indonesia,2022,Q1,2022-03-23,Deepfake Law Passed,Enacted,8.9,0,0,8.7,8.3,News Wire
+Nigeria,2025,Q4,2025-10-08,AI Audit Requirement,Enacted,7.7,0,0,8.0,2.6,Parliamentary Record
+Poland,2025,Q1,2025-02-15,AI Copyright Amendment,Proposed,8.3,0,1,7.3,1.1,News Wire
+India,2025,Q2,2025-05-22,AI Procurement Standards,Proposed,7.3,0,1,1.7,8.5,News Wire
+Netherlands,2023,Q2,2023-04-10,AI Regulatory Framework Enacted,Passed,7.3,0,0,1.1,8.4,Parliamentary Record
+China,2022,Q1,2022-01-11,Deepfake Law Passed,Passed,8.6,1,0,3.4,6.7,NGO Report
+UAE,2024,Q3,2024-08-15,AI Regulatory Framework Enacted,In Committee,8.3,1,0,1.5,7.2,Press Release
+Israel,2024,Q4,2024-11-18,Public AI Consultation Launched,Enacted,7.9,0,0,7.2,3.7,Parliamentary Record
+Germany,2024,Q1,2024-01-07,AI Transparency Act,Proposed,6.9,0,0,9.7,1.7,Parliamentary Record
+Brazil,2022,Q3,2022-08-11,National AI Strategy Published,Enacted,6.3,0,0,5.3,6.2,NGO Report
+Japan,2024,Q1,2024-02-12,AI Regulatory Framework Enacted,Passed,9.3,1,1,9.9,0.1,Official Gazette
+New Zealand,2025,Q3,2025-09-08,AI Audit Requirement,In Committee,7.5,0,0,9.3,5.6,NGO Report
+Taiwan,2023,Q4,2023-12-04,AI Workforce Reskilling Program,In Committee,9.7,0,0,4.7,9.8,Press Release
+Sweden,2025,Q2,2025-04-22,AI Safety Agency Established,Passed,9.4,0,1,9.3,0.3,News Wire
+Chile,2024,Q2,2024-05-24,AI Workforce Reskilling Program,In Committee,6.3,1,0,6.9,8.6,NGO Report
+Israel,2023,Q1,2023-01-06,AI in Education Policy,In Committee,9.1,0,0,2.5,0.3,NGO Report
+UAE,2024,Q3,2024-08-10,AI Procurement Standards,Rejected,7.8,0,0,5.7,6.1,Parliamentary Record
+South Africa,2023,Q3,2023-07-03,AI Copyright Amendment,Withdrawn,3.6,1,0,6.4,2.1,Official Gazette
+Italy,2025,Q4,2025-10-16,AI Copyright Amendment,Proposed,2.7,0,0,6.8,9.4,NGO Report
+Chile,2025,Q1,2025-03-06,AI Content Labelling Law,Proposed,5.4,0,0,5.9,3.2,Press Release
+Israel,2025,Q2,2025-04-07,AI Audit Requirement,Passed,3.8,1,0,9.8,0.4,Parliamentary Record
+South Korea,2023,Q1,2023-02-08,AI Procurement Standards,Passed,9.0,0,0,1.2,1.8,NGO Report
+Israel,2024,Q1,2024-02-28,AI Safety Agency Established,Enacted,9.8,1,0,3.7,7.3,NGO Report
+UAE,2023,Q2,2023-04-15,AI Transparency Act,Enacted,8.8,1,0,8.8,9.2,News Wire
+China,2023,Q3,2023-09-23,AI in Healthcare Regulation,In Committee,2.6,0,0,3.0,8.7,Official Gazette
+France,2022,Q3,2022-07-28,GenAI Export Control,Passed,8.3,0,0,3.8,3.2,Press Release
+South Korea,2025,Q3,2025-07-21,National AI Strategy Published,Passed,9.7,1,0,3.6,0.1,Parliamentary Record
+United States,2022,Q2,2022-04-22,Public AI Consultation Launched,In Committee,8.1,1,0,8.7,1.2,NGO Report
+United Kingdom,2024,Q2,2024-05-14,Generative AI Procurement Guidelines,Passed,4.0,1,0,7.9,8.4,Press Release
+Australia,2022,Q4,2022-12-01,AI Regulatory Framework Enacted,Enacted,8.9,1,0,0.9,0.0,Parliamentary Record
+Indonesia,2025,Q4,2025-12-27,AI Liability Bill Introduced,Proposed,5.1,1,0,9.9,0.8,News Wire
+Ireland,2022,Q4,2022-11-10,AI Procurement Standards,Withdrawn,2.2,0,0,4.3,6.5,News Wire
+India,2024,Q1,2024-02-25,GenAI Export Control,Rejected,1.2,0,0,9.1,6.2,Official Gazette
+Turkey,2022,Q3,2022-07-28,Border AI Inspection Policy,In Committee,3.6,1,1,1.5,7.6,Official Gazette
+UAE,2024,Q2,2024-04-07,AI Audit Requirement,In Committee,2.1,0,0,1.0,1.9,Press Release
+United Kingdom,2024,Q2,2024-06-05,AI in Healthcare Regulation,Passed,5.7,0,0,2.1,0.9,NGO Report
+UAE,2023,Q4,2023-12-06,Border AI Inspection Policy,Passed,5.8,0,0,4.5,7.7,Official Gazette
+United Kingdom,2025,Q2,2025-05-24,AI Safety Agency Established,Proposed,8.5,1,1,4.6,5.7,Press Release
+Italy,2022,Q3,2022-08-09,Generative AI Procurement Guidelines,Enacted,2.9,1,0,7.3,8.6,News Wire
+UAE,2023,Q3,2023-08-08,AI Transparency Act,Withdrawn,6.9,0,1,7.7,2.2,Official Gazette
+France,2024,Q1,2024-02-25,National AI Strategy Published,In Committee,7.2,1,0,8.9,0.2,News Wire
+Indonesia,2024,Q3,2024-09-24,Generative AI Procurement Guidelines,Proposed,6.1,0,0,8.4,3.7,Press Release
+South Africa,2025,Q2,2025-05-15,GenAI Export Control,Passed,5.9,0,1,8.2,9.7,News Wire
+Spain,2025,Q3,2025-07-15,Border AI Inspection Policy,Passed,9.8,0,0,9.6,3.0,Press Release
+Italy,2024,Q4,2024-11-28,Public AI Consultation Launched,Proposed,1.7,1,0,9.6,9.5,Parliamentary Record
+Poland,2023,Q3,2023-08-19,AI Ethics Board Formed,Withdrawn,2.5,1,0,2.0,4.1,Parliamentary Record
+Chile,2022,Q4,2022-10-12,AI Liability Bill Introduced,Passed,4.8,0,0,7.2,3.3,Press Release
+Spain,2024,Q2,2024-06-01,AI Copyright Amendment,Proposed,7.2,0,0,5.6,4.9,Parliamentary Record
+India,2025,Q3,2025-07-27,GenAI Moratorium Proposed,Proposed,8.4,1,0,6.4,7.2,Parliamentary Record
+Mexico,2025,Q2,2025-06-26,AI in Healthcare Regulation,In Committee,1.7,0,0,3.5,7.2,News Wire
+China,2023,Q2,2023-06-17,National AI Strategy Published,Proposed,2.3,0,0,9.2,5.7,NGO Report
+China,2023,Q2,2023-05-09,Deepfake Law Passed,Enacted,6.4,1,0,1.8,5.6,News Wire
+France,2024,Q4,2024-10-20,AI Copyright Amendment,Rejected,1.4,1,0,5.4,3.8,News Wire
+Italy,2025,Q1,2025-03-28,AI Ethics Board Formed,Passed,4.2,0,0,0.8,8.0,News Wire
+Japan,2025,Q3,2025-08-27,AI Content Labelling Law,Passed,9.6,1,0,3.7,6.4,Press Release
+China,2025,Q2,2025-06-11,GenAI Moratorium Proposed,Passed,9.5,1,0,2.8,6.5,Press Release
+Indonesia,2022,Q3,2022-07-25,Algorithmic Accountability Act,Proposed,1.3,0,0,9.0,2.8,Parliamentary Record
+Poland,2022,Q4,2022-12-05,AI in Healthcare Regulation,Rejected,5.2,1,1,9.8,6.5,Official Gazette
+New Zealand,2022,Q3,2022-09-19,AI Workforce Reskilling Program,Passed,9.9,0,0,5.7,7.0,Official Gazette
+Spain,2024,Q4,2024-10-18,AI Copyright Amendment,Enacted,9.1,0,0,0.5,9.5,Parliamentary Record
+India,2023,Q2,2023-05-17,Border AI Inspection Policy,In Committee,9.2,1,0,2.8,1.0,NGO Report
+Nigeria,2024,Q4,2024-11-01,AI Transparency Act,Enacted,1.8,0,0,9.3,1.4,Parliamentary Record
+Italy,2025,Q4,2025-11-17,AI Transparency Act,In Committee,1.4,1,0,8.4,7.8,NGO Report
+Canada,2023,Q1,2023-03-13,AI Regulatory Framework Enacted,Proposed,6.0,0,0,7.4,6.3,Press Release
+Canada,2022,Q4,2022-12-22,AI Transparency Act,Proposed,9.1,1,0,3.2,7.8,News Wire
+Indonesia,2023,Q2,2023-05-09,Border AI Inspection Policy,Enacted,7.6,0,1,8.0,8.1,News Wire
+Taiwan,2022,Q2,2022-04-25,AI in Healthcare Regulation,In Committee,2.2,0,0,8.8,5.1,Parliamentary Record
+Italy,2025,Q3,2025-08-27,AI Regulatory Framework Enacted,Proposed,7.5,1,0,1.1,0.6,Parliamentary Record
+South Africa,2024,Q1,2024-01-10,Border AI Inspection Policy,Enacted,5.9,1,0,1.7,1.4,NGO Report
+Australia,2024,Q1,2024-02-16,AI Transparency Act,Enacted,5.9,1,0,7.5,0.4,NGO Report
+Canada,2024,Q2,2024-05-05,Deepfake Law Passed,Proposed,4.5,1,0,8.6,6.5,Parliamentary Record
+Ireland,2025,Q3,2025-07-28,AI in Healthcare Regulation,Proposed,4.8,0,0,1.9,1.5,Official Gazette
+Germany,2024,Q3,2024-09-05,GenAI Export Control,Enacted,6.0,0,0,4.6,8.2,NGO Report
+South Africa,2023,Q3,2023-07-05,AI Safety Agency Established,Passed,5.0,1,0,2.5,4.6,Parliamentary Record
+Netherlands,2023,Q3,2023-07-19,AI Content Labelling Law,Proposed,4.6,0,0,9.6,4.2,Parliamentary Record
+France,2023,Q3,2023-08-22,Generative AI Procurement Guidelines,Proposed,2.5,0,0,1.0,2.2,News Wire
+Indonesia,2024,Q4,2024-12-16,Generative AI Procurement Guidelines,Enacted,8.7,1,0,4.8,6.1,Parliamentary Record
+UAE,2025,Q1,2025-03-27,AI Audit Requirement,Enacted,1.9,0,0,9.0,5.3,Press Release
+South Africa,2025,Q3,2025-09-02,AI Liability Bill Introduced,In Committee,4.7,0,0,8.6,6.2,News Wire
+South Korea,2024,Q1,2024-02-16,GenAI Moratorium Proposed,Enacted,4.0,1,1,2.0,0.3,Official Gazette
+Sweden,2024,Q4,2024-12-21,Algorithmic Accountability Act,In Committee,5.6,0,0,0.6,2.8,Press Release
+Sweden,2022,Q1,2022-01-14,GenAI Export Control,Under Review,3.7,0,0,8.0,8.7,NGO Report
+Turkey,2024,Q4,2024-10-16,GenAI Moratorium Proposed,Enacted,5.3,0,0,1.6,7.0,Press Release
+Germany,2024,Q3,2024-07-12,GenAI Moratorium Proposed,Rejected,2.2,0,0,3.4,1.0,NGO Report
+Nigeria,2023,Q1,2023-01-22,Algorithmic Accountability Act,In Committee,2.4,0,0,4.8,9.6,Press Release
+Chile,2022,Q2,2022-05-02,AI Content Labelling Law,Enacted,7.8,1,0,1.8,0.4,Official Gazette
+China,2025,Q3,2025-08-13,Public AI Consultation Launched,Enacted,2.2,0,1,2.5,5.3,News Wire
+Germany,2023,Q1,2023-02-13,AI Liability Bill Introduced,Proposed,5.5,1,0,5.4,0.2,Press Release
+Ireland,2022,Q3,2022-07-19,AI Transparency Act,Enacted,4.2,0,0,2.0,5.7,News Wire
+Sweden,2023,Q1,2023-02-02,GenAI Moratorium Proposed,Under Review,1.2,1,0,1.0,5.4,NGO Report
+New Zealand,2023,Q2,2023-06-17,AI Content Labelling Law,Enacted,2.3,0,0,6.5,7.2,Parliamentary Record
+New Zealand,2025,Q1,2025-02-13,AI Copyright Amendment,Enacted,8.6,0,0,4.8,6.5,NGO Report
+Turkey,2022,Q2,2022-05-03,AI Content Labelling Law,Passed,1.3,0,0,7.9,5.0,News Wire
+United States,2022,Q4,2022-10-10,AI Ethics Board Formed,In Committee,7.3,1,0,5.8,6.5,News Wire
+Japan,2022,Q4,2022-11-03,National AI Strategy Published,Rejected,9.9,0,0,3.4,5.0,NGO Report
+Canada,2022,Q3,2022-09-14,Algorithmic Accountability Act,Proposed,2.2,0,0,1.6,7.6,NGO Report
+Sweden,2023,Q1,2023-01-13,AI in Healthcare Regulation,Withdrawn,9.1,0,0,0.9,8.6,NGO Report
+South Korea,2022,Q2,2022-04-07,Generative AI Procurement Guidelines,Proposed,6.4,1,0,8.0,6.7,News Wire
+Netherlands,2024,Q4,2024-10-24,Generative AI Procurement Guidelines,In Committee,2.6,1,0,8.5,0.5,Parliamentary Record
+Ireland,2025,Q1,2025-01-07,AI Copyright Amendment,Enacted,7.6,1,0,1.7,0.2,Parliamentary Record
+Indonesia,2025,Q2,2025-06-13,Deepfake Law Passed,Withdrawn,6.0,1,0,3.4,6.9,Press Release
+Canada,2023,Q3,2023-07-03,AI Content Labelling Law,In Committee,3.9,1,0,2.5,9.7,Parliamentary Record
+Nigeria,2024,Q3,2024-09-13,AI Content Labelling Law,Proposed,9.0,0,0,1.1,7.6,NGO Report
+Brazil,2024,Q3,2024-07-25,Public AI Consultation Launched,Under Review,9.3,0,1,0.4,2.7,Official Gazette
+Germany,2023,Q1,2023-03-18,AI Ethics Board Formed,Withdrawn,5.3,0,0,2.0,5.4,NGO Report
+Poland,2024,Q4,2024-11-19,AI Regulatory Framework Enacted,Enacted,1.9,0,0,5.7,9.6,Official Gazette
+Brazil,2022,Q4,2022-11-27,AI Safety Agency Established,Passed,9.1,0,1,4.5,1.9,Parliamentary Record
+South Korea,2023,Q4,2023-12-02,Public AI Consultation Launched,Enacted,7.1,0,0,2.4,3.6,Parliamentary Record
+Brazil,2022,Q2,2022-05-03,National AI Strategy Published,Passed,5.1,0,0,5.1,0.2,NGO Report
+Brazil,2025,Q1,2025-02-04,AI Liability Bill Introduced,In Committee,9.4,1,0,5.9,2.6,NGO Report
+Indonesia,2022,Q3,2022-08-14,AI Audit Requirement,Proposed,9.3,0,1,0.9,7.6,Official Gazette
+Taiwan,2025,Q3,2025-07-13,AI Ethics Board Formed,Passed,1.0,0,0,0.2,2.2,Official Gazette
+Nigeria,2022,Q2,2022-04-04,AI Copyright Amendment,Passed,3.5,1,0,6.3,1.1,Press Release
+India,2023,Q4,2023-10-27,National AI Strategy Published,Enacted,1.8,0,0,3.8,8.8,Official Gazette
+France,2025,Q4,2025-12-10,National AI Strategy Published,Enacted,2.9,0,0,0.6,5.4,NGO Report
+Chile,2024,Q2,2024-06-24,AI Copyright Amendment,Passed,9.6,1,0,1.0,1.7,NGO Report
+Germany,2023,Q2,2023-05-15,Border AI Inspection Policy,Passed,3.3,0,0,5.3,0.0,Press Release
+United States,2024,Q2,2024-06-27,AI Workforce Reskilling Program,Withdrawn,4.7,1,0,8.9,6.0,Parliamentary Record
+United States,2022,Q4,2022-10-15,AI Transparency Act,Rejected,1.6,0,0,5.5,2.3,Press Release
+Brazil,2022,Q3,2022-09-19,AI Safety Agency Established,In Committee,1.9,0,0,8.4,7.1,NGO Report
+Netherlands,2024,Q3,2024-07-12,AI in Education Policy,Rejected,2.7,0,0,1.8,5.7,Official Gazette
+United States,2025,Q4,2025-12-25,AI Workforce Reskilling Program,Proposed,4.1,0,0,7.3,7.2,News Wire
+France,2025,Q1,2025-03-23,AI Audit Requirement,Under Review,7.7,1,0,1.0,7.3,Parliamentary Record
+United Kingdom,2023,Q2,2023-06-02,AI in Healthcare Regulation,Enacted,7.3,0,0,5.8,1.3,Parliamentary Record
+India,2025,Q4,2025-10-05,Border AI Inspection Policy,Under Review,7.2,0,0,1.8,7.0,NGO Report
+Italy,2025,Q4,2025-10-08,AI Regulatory Framework Enacted,In Committee,1.3,0,0,1.5,9.2,Press Release
+Israel,2023,Q4,2023-10-15,AI Workforce Reskilling Program,Enacted,8.0,1,0,4.4,0.5,News Wire
+Netherlands,2024,Q2,2024-05-14,AI Liability Bill Introduced,Passed,3.4,1,0,6.9,1.7,NGO Report
+Chile,2024,Q1,2024-03-19,AI in Education Policy,Proposed,4.8,0,1,6.8,7.4,News Wire
+South Africa,2023,Q3,2023-07-06,Deepfake Law Passed,Enacted,9.5,0,0,10.0,8.0,News Wire
+United Kingdom,2022,Q3,2022-08-18,Algorithmic Accountability Act,Passed,1.7,0,1,7.4,9.1,Parliamentary Record
+Poland,2024,Q1,2024-01-10,AI Safety Agency Established,Rejected,1.6,1,0,9.6,4.3,Parliamentary Record
+India,2022,Q4,2022-12-24,AI in Education Policy,Passed,8.1,0,1,7.2,5.8,Press Release
+Sweden,2023,Q3,2023-07-18,National AI Strategy Published,Enacted,2.0,0,0,8.6,5.0,Official Gazette
+Poland,2024,Q4,2024-10-25,AI Procurement Standards,Under Review,1.1,0,0,3.4,1.8,Parliamentary Record
+Kenya,2023,Q1,2023-03-25,Deepfake Law Passed,Under Review,5.9,0,0,2.9,5.4,News Wire
+Kenya,2022,Q3,2022-08-10,Algorithmic Accountability Act,Under Review,5.1,0,0,7.4,3.2,News Wire
+Indonesia,2023,Q4,2023-11-05,AI Copyright Amendment,Passed,6.8,0,1,7.7,0.6,News Wire
+UAE,2025,Q2,2025-05-08,Deepfake Law Passed,Withdrawn,8.4,0,0,7.0,4.2,Official Gazette
+Germany,2023,Q3,2023-07-15,AI in Healthcare Regulation,Enacted,1.9,0,0,3.2,3.5,Press Release
+Germany,2025,Q1,2025-01-13,Algorithmic Accountability Act,Proposed,7.2,1,0,1.3,2.4,News Wire
+France,2023,Q4,2023-11-10,AI Liability Bill Introduced,Enacted,8.0,0,0,0.9,9.1,News Wire
+Indonesia,2024,Q1,2024-03-13,AI Ethics Board Formed,Proposed,4.6,0,0,9.1,2.9,Press Release
+Turkey,2022,Q2,2022-05-28,Deepfake Law Passed,Enacted,4.9,1,0,6.4,3.1,News Wire
+South Africa,2023,Q2,2023-04-13,AI Safety Agency Established,Proposed,3.1,0,0,5.2,6.4,NGO Report
+France,2023,Q3,2023-09-18,AI Liability Bill Introduced,Passed,8.0,0,0,1.1,7.5,NGO Report
+India,2023,Q1,2023-02-22,AI Transparency Act,Enacted,3.3,0,0,2.9,0.4,Parliamentary Record
+Nigeria,2025,Q1,2025-01-19,AI Content Labelling Law,Proposed,9.4,1,0,4.8,2.0,Press Release
+India,2022,Q3,2022-09-23,AI Liability Bill Introduced,Enacted,9.6,0,0,1.1,1.6,Parliamentary Record
+Germany,2025,Q2,2025-06-08,Border AI Inspection Policy,Enacted,3.7,0,1,9.6,6.8,Parliamentary Record
+United States,2024,Q2,2024-05-28,AI Audit Requirement,Enacted,3.4,0,0,5.2,9.8,Official Gazette
+Australia,2024,Q2,2024-06-13,Public AI Consultation Launched,Enacted,8.4,0,1,8.5,2.5,News Wire
+Canada,2024,Q4,2024-10-26,AI Transparency Act,Proposed,4.3,0,0,2.7,3.2,News Wire
+Singapore,2022,Q2,2022-05-02,GenAI Moratorium Proposed,Passed,9.8,0,0,8.1,2.3,News Wire
+Netherlands,2022,Q1,2022-03-10,Border AI Inspection Policy,Enacted,7.7,0,0,1.6,9.3,NGO Report
+Japan,2024,Q4,2024-10-16,GenAI Moratorium Proposed,Enacted,9.6,0,0,2.3,1.5,News Wire
+China,2023,Q2,2023-04-18,AI Ethics Board Formed,In Committee,3.2,1,0,1.0,0.8,Parliamentary Record
+Saudi Arabia,2024,Q3,2024-07-24,National AI Strategy Published,Proposed,2.9,1,0,4.0,7.6,News Wire
+Germany,2025,Q1,2025-03-04,National AI Strategy Published,Withdrawn,9.6,0,1,9.7,6.2,NGO Report
+Sweden,2023,Q3,2023-08-07,National AI Strategy Published,Proposed,9.0,1,0,9.8,5.9,News Wire
+Italy,2024,Q2,2024-05-01,AI Workforce Reskilling Program,Enacted,9.1,1,0,1.3,3.6,Parliamentary Record
+United Kingdom,2022,Q3,2022-09-20,AI Regulatory Framework Enacted,Enacted,7.1,0,0,7.8,3.4,NGO Report
+UAE,2023,Q4,2023-10-24,AI Safety Agency Established,Proposed,8.5,0,1,8.4,3.7,Official Gazette
+Nigeria,2022,Q3,2022-07-10,AI Content Labelling Law,Passed,1.4,0,0,6.3,2.1,Official Gazette
+New Zealand,2024,Q2,2024-05-22,AI Safety Agency Established,Enacted,1.9,0,0,8.8,6.8,News Wire
+Turkey,2025,Q4,2025-12-04,AI Audit Requirement,In Committee,6.9,0,0,5.8,3.9,Parliamentary Record
+China,2022,Q2,2022-04-14,AI Ethics Board Formed,Enacted,1.1,0,0,0.9,6.6,Parliamentary Record
+South Korea,2024,Q3,2024-07-10,AI Workforce Reskilling Program,Enacted,2.4,0,1,6.3,0.6,Official Gazette
+Turkey,2024,Q3,2024-07-13,AI in Healthcare Regulation,Passed,8.3,0,0,7.4,5.8,Parliamentary Record
+Saudi Arabia,2024,Q1,2024-02-18,AI Safety Agency Established,Passed,7.6,0,0,0.9,1.1,Press Release
+Canada,2022,Q2,2022-05-16,Deepfake Law Passed,In Committee,6.3,0,0,2.9,2.5,Press Release
+South Africa,2024,Q3,2024-07-08,AI in Education Policy,Proposed,6.7,0,0,2.6,5.4,Press Release
+New Zealand,2024,Q1,2024-01-01,AI Copyright Amendment,Passed,6.9,0,0,9.6,9.6,Official Gazette
+Spain,2024,Q2,2024-06-03,AI in Education Policy,Under Review,4.6,0,1,8.9,5.6,Parliamentary Record
+Japan,2024,Q3,2024-08-27,Algorithmic Accountability Act,Proposed,2.2,1,0,5.5,4.1,NGO Report
+Germany,2022,Q1,2022-01-13,AI Workforce Reskilling Program,Passed,3.5,0,0,7.3,3.4,Official Gazette
+Taiwan,2023,Q2,2023-06-27,AI Copyright Amendment,Proposed,1.3,1,1,0.9,0.5,NGO Report
+Singapore,2025,Q4,2025-11-21,AI Content Labelling Law,Enacted,5.8,0,0,6.1,3.6,Press Release
+Saudi Arabia,2022,Q1,2022-02-04,AI Copyright Amendment,In Committee,5.6,1,0,5.9,0.6,Official Gazette
+Indonesia,2023,Q1,2023-02-23,National AI Strategy Published,Proposed,9.9,0,0,6.0,2.7,News Wire
+Nigeria,2025,Q2,2025-05-14,GenAI Export Control,Enacted,9.5,0,0,8.1,0.6,Official Gazette
+Italy,2023,Q1,2023-02-27,AI in Education Policy,Enacted,8.9,1,0,8.1,5.8,Press Release
+Brazil,2022,Q3,2022-07-16,AI Regulatory Framework Enacted,Passed,8.8,1,0,4.3,0.2,Official Gazette
+Turkey,2025,Q4,2025-10-20,Algorithmic Accountability Act,Enacted,6.8,0,0,9.8,3.9,Press Release
+Canada,2023,Q3,2023-07-26,Border AI Inspection Policy,Passed,6.4,0,0,6.9,0.5,News Wire
+France,2024,Q2,2024-05-19,AI Audit Requirement,Proposed,2.0,0,1,1.7,2.3,Official Gazette
+Brazil,2025,Q1,2025-01-25,AI in Healthcare Regulation,Passed,2.2,0,0,3.6,2.1,Official Gazette
+Brazil,2023,Q4,2023-10-28,GenAI Export Control,Enacted,7.1,0,1,6.3,3.9,NGO Report
+UAE,2022,Q2,2022-06-28,AI Safety Agency Established,Proposed,7.6,1,0,0.8,6.1,Parliamentary Record
+Netherlands,2024,Q3,2024-07-02,AI Copyright Amendment,Enacted,7.2,0,0,1.6,4.1,NGO Report
+Australia,2025,Q3,2025-09-25,AI Regulatory Framework Enacted,Under Review,4.9,0,1,9.7,3.9,Press Release
+UAE,2022,Q2,2022-05-04,AI Content Labelling Law,Enacted,5.3,0,0,7.6,5.5,NGO Report
+India,2024,Q3,2024-09-02,GenAI Moratorium Proposed,Enacted,4.8,0,0,7.6,9.6,Official Gazette
+Turkey,2022,Q1,2022-03-07,AI Transparency Act,Proposed,6.4,0,0,1.1,1.5,Parliamentary Record
+Italy,2024,Q3,2024-07-11,GenAI Moratorium Proposed,Passed,2.5,0,0,2.1,0.1,Parliamentary Record
+South Africa,2025,Q2,2025-05-20,GenAI Moratorium Proposed,Proposed,6.7,1,0,4.3,2.4,News Wire
+Poland,2024,Q2,2024-05-22,GenAI Export Control,Enacted,8.6,1,0,4.6,8.4,Official Gazette
+Italy,2022,Q2,2022-04-23,AI Audit Requirement,Enacted,5.3,0,0,1.8,1.3,Press Release
+Brazil,2025,Q1,2025-02-26,AI Procurement Standards,Rejected,1.4,0,0,9.3,6.0,NGO Report
+Singapore,2024,Q3,2024-07-13,GenAI Moratorium Proposed,Proposed,4.3,1,0,7.5,2.6,Press Release
+Taiwan,2024,Q3,2024-07-13,GenAI Export Control,Enacted,4.4,0,0,7.3,0.7,Press Release
+South Korea,2024,Q1,2024-02-14,Deepfake Law Passed,Enacted,7.4,0,1,1.0,5.5,Official Gazette
+New Zealand,2025,Q1,2025-02-28,AI in Education Policy,Proposed,8.8,1,0,6.7,5.2,Official Gazette
+India,2024,Q2,2024-06-04,AI Workforce Reskilling Program,Enacted,4.7,0,0,3.7,2.8,Official Gazette
+Italy,2022,Q1,2022-01-04,Deepfake Law Passed,Proposed,8.8,0,0,8.1,6.5,Official Gazette
+Poland,2024,Q2,2024-05-07,AI Audit Requirement,Rejected,5.1,1,0,7.1,3.2,Official Gazette
+Mexico,2022,Q1,2022-01-22,Deepfake Law Passed,Proposed,9.9,0,0,0.6,9.6,Official Gazette
+Spain,2025,Q3,2025-08-07,AI Transparency Act,Enacted,8.0,0,0,1.9,8.5,News Wire
+Japan,2023,Q4,2023-12-10,AI Audit Requirement,Enacted,5.0,1,0,8.9,4.4,Official Gazette
+Saudi Arabia,2023,Q1,2023-03-02,AI Liability Bill Introduced,Passed,3.1,0,0,0.1,0.4,Official Gazette
+United States,2025,Q4,2025-10-22,Border AI Inspection Policy,Rejected,4.8,0,0,1.5,5.2,Press Release
+China,2025,Q4,2025-12-08,National AI Strategy Published,Proposed,9.0,0,1,2.5,5.2,NGO Report
+UAE,2024,Q3,2024-08-19,GenAI Export Control,Proposed,1.4,0,0,1.4,5.8,NGO Report
+Saudi Arabia,2022,Q2,2022-04-26,Deepfake Law Passed,In Committee,9.4,0,0,7.8,0.5,News Wire
+China,2022,Q4,2022-12-22,AI Regulatory Framework Enacted,In Committee,4.0,0,0,0.9,4.3,Press Release
+Indonesia,2024,Q1,2024-01-26,AI Ethics Board Formed,Withdrawn,1.6,0,1,6.7,9.2,Press Release
+Mexico,2022,Q2,2022-04-27,AI Procurement Standards,Enacted,8.2,0,0,0.7,8.2,News Wire
+Mexico,2023,Q3,2023-07-28,AI Content Labelling Law,Enacted,5.9,0,0,8.3,8.9,Parliamentary Record
+UAE,2022,Q3,2022-07-11,AI Copyright Amendment,Enacted,9.6,0,0,5.1,0.4,Press Release
+UAE,2025,Q4,2025-11-14,AI Content Labelling Law,Passed,9.1,1,0,5.5,7.0,NGO Report
+Japan,2024,Q1,2024-03-02,AI Workforce Reskilling Program,In Committee,3.3,0,0,9.5,2.7,NGO Report
+Taiwan,2025,Q4,2025-12-18,National AI Strategy Published,Under Review,1.9,0,0,8.9,4.0,Press Release
+Germany,2025,Q4,2025-10-07,AI Workforce Reskilling Program,Enacted,5.9,1,0,9.5,8.4,Official Gazette
+India,2022,Q1,2022-02-28,Generative AI Procurement Guidelines,In Committee,6.5,0,0,0.7,10.0,News Wire
+Turkey,2022,Q1,2022-01-27,Public AI Consultation Launched,Passed,7.3,0,0,3.3,6.0,NGO Report
+South Africa,2025,Q2,2025-04-05,Deepfake Law Passed,Proposed,6.6,0,0,3.7,7.0,Official Gazette
+Australia,2023,Q2,2023-04-14,Generative AI Procurement Guidelines,Proposed,9.2,0,0,3.2,3.5,Official Gazette
+Ireland,2024,Q4,2024-10-19,National AI Strategy Published,Proposed,6.2,1,0,6.8,5.9,NGO Report
+India,2023,Q3,2023-09-15,Generative AI Procurement Guidelines,Proposed,8.9,0,0,3.0,8.9,Press Release
+Spain,2022,Q2,2022-05-02,AI Procurement Standards,Passed,7.2,0,0,9.6,9.9,NGO Report
+Turkey,2024,Q2,2024-05-05,AI Procurement Standards,Enacted,8.1,0,0,2.7,3.4,Official Gazette
+Taiwan,2022,Q2,2022-04-17,AI in Education Policy,Proposed,7.9,0,0,7.5,3.1,Parliamentary Record
+UAE,2022,Q1,2022-03-25,AI Transparency Act,Proposed,1.3,1,0,3.6,6.1,Press Release
+Taiwan,2022,Q4,2022-12-08,AI Liability Bill Introduced,Enacted,4.2,0,0,2.3,1.0,NGO Report
+Nigeria,2023,Q4,2023-12-04,AI Procurement Standards,In Committee,6.8,0,1,7.9,5.0,News Wire
+Israel,2024,Q1,2024-03-14,AI Audit Requirement,Enacted,9.6,0,0,4.9,4.4,Press Release
+South Africa,2022,Q3,2022-09-16,AI Audit Requirement,Proposed,2.2,0,0,1.5,6.0,Parliamentary Record
+UAE,2024,Q1,2024-01-27,AI Procurement Standards,Passed,3.5,0,0,5.1,1.6,Press Release
+Australia,2024,Q4,2024-11-11,AI Copyright Amendment,Enacted,9.3,0,0,0.6,7.2,Press Release
+Turkey,2025,Q4,2025-12-03,Border AI Inspection Policy,Enacted,4.6,1,0,6.9,5.3,Official Gazette
+India,2024,Q2,2024-04-17,AI Ethics Board Formed,Passed,7.7,1,0,6.1,4.5,News Wire
+New Zealand,2025,Q2,2025-05-26,GenAI Moratorium Proposed,Passed,3.0,0,0,6.6,5.2,Press Release
+United States,2023,Q2,2023-05-27,AI Workforce Reskilling Program,In Committee,7.9,0,0,5.6,3.6,NGO Report
+Taiwan,2023,Q1,2023-01-24,AI Regulatory Framework Enacted,In Committee,2.8,0,1,1.0,9.9,Official Gazette
+Ireland,2025,Q4,2025-11-01,Border AI Inspection Policy,Passed,8.9,1,0,2.0,0.2,Official Gazette
+Mexico,2024,Q2,2024-06-17,AI Transparency Act,Enacted,2.1,0,0,9.7,9.3,Press Release
+UAE,2022,Q2,2022-05-15,AI Regulatory Framework Enacted,Proposed,7.8,1,0,7.4,7.7,Official Gazette
+South Korea,2022,Q4,2022-12-16,AI Content Labelling Law,Enacted,1.5,1,0,8.9,7.6,NGO Report
+Chile,2023,Q2,2023-05-21,GenAI Export Control,Proposed,8.9,1,0,5.9,3.2,Press Release
+New Zealand,2024,Q3,2024-09-24,AI Copyright Amendment,In Committee,4.6,0,0,1.5,0.2,Official Gazette
+France,2023,Q3,2023-07-11,AI Audit Requirement,Enacted,8.8,0,0,0.2,7.9,Press Release
+Poland,2024,Q3,2024-08-11,GenAI Moratorium Proposed,Enacted,8.9,1,0,2.9,9.6,Parliamentary Record
+United Kingdom,2023,Q1,2023-01-15,GenAI Export Control,Passed,3.8,0,0,1.3,5.5,Parliamentary Record
+Italy,2025,Q2,2025-05-22,AI Liability Bill Introduced,Rejected,4.6,0,0,6.1,2.6,Official Gazette
+South Korea,2022,Q4,2022-10-28,AI Audit Requirement,Proposed,3.5,1,0,0.6,9.1,NGO Report
+Spain,2022,Q2,2022-04-02,AI Content Labelling Law,Withdrawn,6.7,0,0,4.3,3.3,NGO Report
+Chile,2024,Q3,2024-07-10,AI in Education Policy,In Committee,7.5,1,0,4.2,6.1,News Wire
+Italy,2023,Q2,2023-06-11,AI Content Labelling Law,Proposed,5.4,1,0,1.9,2.0,News Wire
+Italy,2024,Q2,2024-04-21,Generative AI Procurement Guidelines,Enacted,5.7,1,0,7.3,4.8,Official Gazette
+Netherlands,2023,Q3,2023-09-03,AI in Healthcare Regulation,Rejected,3.2,0,0,7.0,4.4,Official Gazette
+Israel,2023,Q4,2023-11-15,AI Copyright Amendment,In Committee,5.5,0,0,10.0,8.7,News Wire
+Sweden,2025,Q4,2025-12-12,AI Transparency Act,Proposed,9.2,0,1,0.2,2.4,Parliamentary Record
+France,2025,Q4,2025-12-18,Generative AI Procurement Guidelines,In Committee,4.8,1,0,4.8,1.1,News Wire
+UAE,2025,Q2,2025-06-19,AI Content Labelling Law,Proposed,5.6,0,0,4.7,10.0,NGO Report
+Nigeria,2024,Q3,2024-08-15,AI in Healthcare Regulation,In Committee,3.1,0,0,2.2,2.7,Press Release
+Indonesia,2025,Q4,2025-11-12,AI in Education Policy,Passed,6.3,1,0,1.6,6.1,Official Gazette
+New Zealand,2025,Q2,2025-06-09,National AI Strategy Published,Enacted,1.4,0,0,8.1,1.0,News Wire
+Turkey,2022,Q2,2022-04-23,Border AI Inspection Policy,Enacted,3.1,1,0,9.5,3.3,Press Release
+France,2022,Q4,2022-12-14,Border AI Inspection Policy,Proposed,8.6,0,0,7.9,6.8,Parliamentary Record
+Canada,2023,Q2,2023-05-13,AI Copyright Amendment,Enacted,9.0,1,0,2.5,1.5,Press Release
+Spain,2024,Q1,2024-03-18,AI Transparency Act,Enacted,7.6,1,0,10.0,9.4,NGO Report
+Kenya,2024,Q2,2024-05-23,AI Regulatory Framework Enacted,Enacted,6.3,0,0,4.1,9.6,NGO Report
+Israel,2024,Q2,2024-04-14,AI Safety Agency Established,Proposed,2.7,1,1,3.0,0.4,Official Gazette
+United Kingdom,2023,Q3,2023-07-09,Deepfake Law Passed,In Committee,5.3,0,1,3.6,2.2,Official Gazette
+Mexico,2024,Q3,2024-09-03,Public AI Consultation Launched,In Committee,8.8,1,1,2.9,1.1,Official Gazette
+Sweden,2025,Q3,2025-08-04,Border AI Inspection Policy,Enacted,7.4,0,0,2.1,5.1,News Wire
+South Korea,2022,Q2,2022-06-02,AI Procurement Standards,In Committee,6.7,0,1,1.6,8.3,Official Gazette
+United Kingdom,2025,Q1,2025-02-01,AI Procurement Standards,Enacted,7.1,0,0,3.9,5.3,NGO Report
+United Kingdom,2025,Q3,2025-08-01,AI Procurement Standards,In Committee,9.4,0,0,9.3,8.7,News Wire
+Germany,2022,Q2,2022-06-21,AI in Education Policy,In Committee,2.4,1,0,4.2,0.7,News Wire
+Italy,2025,Q4,2025-10-08,AI Safety Agency Established,Enacted,2.5,0,0,1.2,1.6,NGO Report
+Turkey,2025,Q4,2025-12-10,Algorithmic Accountability Act,Rejected,6.8,1,0,6.6,0.1,Press Release
+Italy,2024,Q4,2024-12-24,AI Transparency Act,Passed,3.2,1,0,6.8,5.4,Official Gazette
+Turkey,2024,Q4,2024-10-06,AI Liability Bill Introduced,Passed,5.5,0,0,0.8,1.3,Official Gazette
+Spain,2024,Q3,2024-08-23,AI Safety Agency Established,Enacted,2.7,1,0,5.0,2.0,News Wire
+United States,2024,Q1,2024-03-15,Border AI Inspection Policy,In Committee,8.1,0,0,4.1,0.1,Parliamentary Record
+Indonesia,2022,Q2,2022-06-14,AI Safety Agency Established,Enacted,5.8,0,0,5.7,8.8,Parliamentary Record
+Brazil,2023,Q2,2023-04-24,AI Audit Requirement,In Committee,6.1,1,0,5.5,2.4,Parliamentary Record
+Brazil,2024,Q3,2024-08-01,AI Ethics Board Formed,Proposed,5.4,1,0,2.2,3.5,News Wire
+Japan,2024,Q2,2024-05-22,AI Regulatory Framework Enacted,Proposed,2.1,0,0,0.9,0.1,News Wire
+Kenya,2022,Q3,2022-09-07,AI Copyright Amendment,In Committee,3.1,0,0,6.1,2.5,NGO Report
+United States,2025,Q4,2025-11-08,GenAI Export Control,Passed,9.2,0,1,7.2,0.8,News Wire
+United States,2024,Q2,2024-05-04,AI Safety Agency Established,Proposed,4.4,0,0,4.0,1.6,Parliamentary Record
+Singapore,2022,Q1,2022-01-22,Algorithmic Accountability Act,Under Review,2.4,1,0,4.9,6.8,NGO Report
+Singapore,2024,Q1,2024-02-10,AI Liability Bill Introduced,Proposed,8.0,0,0,6.8,8.9,Press Release
+New Zealand,2024,Q4,2024-10-08,Border AI Inspection Policy,Proposed,7.2,0,0,7.7,7.0,NGO Report
+Canada,2023,Q2,2023-05-08,AI in Education Policy,Enacted,8.4,0,0,7.4,7.7,Press Release
+Kenya,2024,Q4,2024-11-18,AI Ethics Board Formed,Enacted,8.2,0,0,8.8,4.6,NGO Report
+Sweden,2023,Q2,2023-04-18,Border AI Inspection Policy,In Committee,9.6,0,0,1.0,2.1,Official Gazette
+Australia,2023,Q1,2023-02-17,Deepfake Law Passed,Passed,1.5,1,0,2.0,3.1,Official Gazette
+Singapore,2022,Q4,2022-12-13,Deepfake Law Passed,Enacted,3.5,0,0,7.0,9.6,Press Release
+Brazil,2024,Q3,2024-08-23,AI Procurement Standards,Proposed,6.1,1,0,7.7,4.4,Press Release
+France,2025,Q4,2025-10-26,AI Content Labelling Law,Under Review,7.2,1,0,0.8,9.3,Official Gazette
+Saudi Arabia,2024,Q1,2024-03-22,AI Liability Bill Introduced,Proposed,2.7,1,0,7.4,0.5,News Wire
+Italy,2025,Q4,2025-12-23,GenAI Export Control,Enacted,8.8,1,0,0.5,0.5,Official Gazette
+Brazil,2022,Q1,2022-01-27,Border AI Inspection Policy,Enacted,5.4,1,0,6.6,4.3,Parliamentary Record
+Canada,2022,Q4,2022-10-23,AI Audit Requirement,Rejected,7.1,1,0,2.7,6.7,Official Gazette
+Turkey,2025,Q2,2025-04-10,AI Safety Agency Established,Rejected,5.0,0,1,7.0,0.9,News Wire
+Sweden,2025,Q3,2025-07-20,Generative AI Procurement Guidelines,In Committee,5.9,0,0,4.2,0.2,News Wire
+Spain,2023,Q4,2023-11-22,Generative AI Procurement Guidelines,Passed,2.6,0,0,4.2,6.3,Parliamentary Record
+Israel,2023,Q2,2023-04-06,GenAI Export Control,Withdrawn,1.2,0,0,3.0,1.9,NGO Report
+Turkey,2025,Q2,2025-06-12,AI Ethics Board Formed,Enacted,5.3,0,0,7.1,4.7,NGO Report
+Nigeria,2025,Q4,2025-10-23,AI in Education Policy,Enacted,8.8,1,0,8.5,4.6,Parliamentary Record
+Italy,2025,Q4,2025-10-04,AI in Education Policy,In Committee,2.0,0,0,3.2,0.2,Press Release
+India,2024,Q4,2024-12-08,Algorithmic Accountability Act,Proposed,1.7,0,0,5.5,6.7,NGO Report
+UAE,2024,Q4,2024-12-16,AI Audit Requirement,Proposed,2.1,0,0,4.1,4.9,NGO Report
+India,2022,Q3,2022-08-03,Deepfake Law Passed,Enacted,2.4,1,0,2.4,5.6,Official Gazette
+Ireland,2022,Q2,2022-04-27,Deepfake Law Passed,Passed,9.4,0,0,8.1,9.7,NGO Report
+China,2022,Q4,2022-10-21,AI Content Labelling Law,In Committee,1.9,1,0,4.0,7.1,Official Gazette
+India,2023,Q2,2023-06-04,AI Liability Bill Introduced,In Committee,4.1,0,0,6.0,5.1,Parliamentary Record
+Saudi Arabia,2025,Q4,2025-11-11,GenAI Moratorium Proposed,Under Review,8.9,0,1,7.1,1.5,NGO Report
+Japan,2022,Q2,2022-06-24,AI Content Labelling Law,Passed,4.3,0,0,9.9,5.0,Official Gazette
+Japan,2025,Q2,2025-05-23,AI Ethics Board Formed,Passed,2.8,1,0,4.5,6.0,Parliamentary Record
+Chile,2025,Q3,2025-08-16,AI in Education Policy,Withdrawn,7.9,1,0,4.3,2.6,Official Gazette
+Taiwan,2022,Q4,2022-12-20,AI in Healthcare Regulation,Under Review,5.9,0,0,0.9,4.0,News Wire
+United States,2025,Q2,2025-05-05,Algorithmic Accountability Act,In Committee,9.8,1,0,4.9,0.1,Parliamentary Record
+Turkey,2022,Q2,2022-06-02,AI Content Labelling Law,Passed,9.3,1,1,3.4,4.5,Press Release
+Brazil,2023,Q3,2023-07-18,AI Regulatory Framework Enacted,Enacted,4.2,0,0,3.2,0.4,NGO Report
+Poland,2025,Q4,2025-10-17,AI in Healthcare Regulation,Enacted,9.4,1,0,8.5,3.9,Parliamentary Record
+Israel,2024,Q1,2024-02-06,GenAI Export Control,Passed,9.9,1,0,4.7,6.2,Press Release
+France,2025,Q3,2025-08-13,Deepfake Law Passed,Withdrawn,8.1,0,0,4.3,9.2,Press Release
+Israel,2024,Q2,2024-06-26,AI Transparency Act,Proposed,6.2,0,0,7.1,2.1,News Wire
+South Africa,2022,Q4,2022-10-10,Public AI Consultation Launched,Enacted,3.9,0,0,3.1,7.7,Official Gazette
+Japan,2025,Q1,2025-02-17,AI Liability Bill Introduced,Proposed,8.1,0,0,0.7,8.7,Official Gazette
+Ireland,2022,Q3,2022-07-04,Public AI Consultation Launched,Rejected,1.8,1,0,7.8,0.9,NGO Report
+India,2022,Q3,2022-08-22,AI Safety Agency Established,In Committee,3.3,1,0,6.4,6.9,Official Gazette
+Ireland,2025,Q2,2025-05-17,AI Liability Bill Introduced,In Committee,4.4,0,0,2.7,2.2,News Wire
+Chile,2024,Q2,2024-06-09,Algorithmic Accountability Act,Passed,5.6,0,0,7.1,1.1,Official Gazette
+Kenya,2023,Q1,2023-02-01,Deepfake Law Passed,Enacted,6.9,1,0,5.5,5.7,News Wire
+New Zealand,2025,Q2,2025-06-15,GenAI Moratorium Proposed,Rejected,6.9,0,1,7.7,4.8,NGO Report
+Poland,2025,Q1,2025-02-14,AI in Education Policy,Proposed,4.5,0,0,6.0,3.3,Parliamentary Record
+South Korea,2025,Q1,2025-03-25,Deepfake Law Passed,In Committee,8.9,1,0,4.8,9.9,Parliamentary Record
+India,2023,Q3,2023-08-22,Border AI Inspection Policy,Passed,7.7,0,0,0.6,9.0,Parliamentary Record
+Saudi Arabia,2024,Q1,2024-03-19,AI Transparency Act,Proposed,5.9,1,0,8.8,4.2,News Wire
+Germany,2025,Q2,2025-05-27,AI Liability Bill Introduced,Enacted,1.7,1,0,2.2,5.4,Parliamentary Record
+Canada,2022,Q4,2022-12-05,AI in Education Policy,In Committee,8.7,0,0,5.8,3.9,Parliamentary Record
+Mexico,2024,Q2,2024-06-19,AI Copyright Amendment,Passed,6.0,0,1,5.1,9.8,Parliamentary Record
+Japan,2024,Q2,2024-04-19,AI Content Labelling Law,Rejected,5.9,1,1,4.0,9.0,News Wire
+United Kingdom,2023,Q1,2023-02-22,AI Procurement Standards,Proposed,1.8,0,0,8.8,9.3,Official Gazette
+Chile,2022,Q1,2022-02-01,AI Copyright Amendment,Passed,4.4,0,1,1.0,0.3,Official Gazette
+Sweden,2022,Q2,2022-06-02,AI Content Labelling Law,Passed,7.3,0,0,5.6,6.9,NGO Report
+United Kingdom,2025,Q2,2025-06-03,GenAI Export Control,Proposed,4.7,0,0,0.4,7.0,News Wire
+Turkey,2024,Q1,2024-03-09,Generative AI Procurement Guidelines,Proposed,4.5,1,1,6.7,7.2,NGO Report
+Ireland,2024,Q2,2024-05-05,National AI Strategy Published,Enacted,5.6,1,1,4.9,3.9,News Wire
+India,2023,Q2,2023-04-21,AI Transparency Act,Enacted,5.6,0,0,3.8,8.3,NGO Report
+Taiwan,2025,Q3,2025-07-26,Algorithmic Accountability Act,Enacted,4.2,0,1,9.8,8.4,NGO Report
+Saudi Arabia,2024,Q2,2024-05-04,AI Copyright Amendment,In Committee,9.2,0,0,0.2,4.9,Official Gazette
+Indonesia,2024,Q3,2024-09-15,AI Copyright Amendment,Enacted,8.5,0,0,4.7,2.7,NGO Report
+Kenya,2023,Q4,2023-11-18,Border AI Inspection Policy,Withdrawn,2.9,1,1,8.6,1.9,Parliamentary Record
+Kenya,2024,Q1,2024-01-10,GenAI Export Control,Passed,8.0,0,0,9.9,6.7,Press Release
+UAE,2023,Q2,2023-06-24,AI Safety Agency Established,In Committee,8.0,0,0,4.6,8.1,NGO Report
+Spain,2022,Q2,2022-06-06,AI Transparency Act,Enacted,4.4,0,0,8.2,5.8,Parliamentary Record
+Nigeria,2023,Q4,2023-12-16,AI in Education Policy,Passed,7.2,0,1,3.9,3.1,Press Release
+France,2025,Q1,2025-01-10,Border AI Inspection Policy,Enacted,3.4,0,0,6.1,5.8,Press Release
+New Zealand,2022,Q4,2022-12-15,AI Audit Requirement,Passed,7.2,0,0,1.1,2.5,NGO Report
+Japan,2024,Q3,2024-09-02,Public AI Consultation Launched,Enacted,5.1,1,0,7.1,4.1,News Wire
+Kenya,2024,Q1,2024-02-11,Generative AI Procurement Guidelines,Under Review,7.3,1,0,0.1,6.1,Official Gazette
+Taiwan,2022,Q3,2022-07-24,AI Content Labelling Law,Enacted,1.9,0,0,7.5,3.1,Press Release
+Canada,2022,Q2,2022-06-16,AI Regulatory Framework Enacted,Rejected,6.3,0,1,6.3,7.4,Parliamentary Record
+Singapore,2022,Q3,2022-09-16,AI Workforce Reskilling Program,Enacted,2.4,1,0,3.2,1.2,News Wire
+Kenya,2024,Q4,2024-12-13,AI Transparency Act,Passed,7.9,0,0,0.2,3.3,NGO Report
+Netherlands,2022,Q2,2022-04-20,Algorithmic Accountability Act,Withdrawn,2.7,1,0,6.2,9.0,NGO Report
+Italy,2025,Q4,2025-10-22,National AI Strategy Published,In Committee,3.4,1,0,5.7,0.9,Official Gazette
+Kenya,2022,Q2,2022-05-21,AI in Education Policy,Enacted,6.0,0,0,3.6,0.0,Official Gazette
+Turkey,2025,Q4,2025-10-20,AI Regulatory Framework Enacted,Proposed,5.4,0,0,3.5,3.4,NGO Report
+Turkey,2022,Q3,2022-08-01,GenAI Moratorium Proposed,Proposed,6.0,0,0,6.9,6.5,Parliamentary Record
+Brazil,2025,Q2,2025-05-16,AI in Healthcare Regulation,Enacted,8.1,1,0,8.0,8.9,Official Gazette
+China,2022,Q1,2022-01-16,AI Copyright Amendment,Enacted,7.1,1,0,8.2,8.8,NGO Report
+Saudi Arabia,2025,Q3,2025-07-21,Public AI Consultation Launched,In Committee,1.5,0,0,7.0,1.8,Official Gazette
+Netherlands,2025,Q1,2025-02-21,AI Liability Bill Introduced,Proposed,8.9,1,0,1.5,2.4,Parliamentary Record
+Poland,2023,Q4,2023-11-24,Algorithmic Accountability Act,Under Review,8.0,0,0,2.4,2.2,News Wire
+Germany,2025,Q4,2025-10-28,Deepfake Law Passed,Proposed,1.4,1,0,9.8,6.8,Parliamentary Record
+United Kingdom,2024,Q2,2024-06-25,GenAI Export Control,Passed,4.0,0,0,2.9,9.0,NGO Report
+New Zealand,2022,Q3,2022-08-16,AI in Healthcare Regulation,Enacted,2.6,0,0,9.1,6.2,News Wire
+Canada,2023,Q1,2023-02-10,GenAI Export Control,Withdrawn,5.7,1,0,8.5,6.3,Press Release
+France,2025,Q4,2025-12-21,AI in Healthcare Regulation,Enacted,2.8,0,0,1.6,5.2,Press Release
+Singapore,2022,Q1,2022-01-09,AI Workforce Reskilling Program,Proposed,7.5,1,0,9.6,4.6,Press Release
+Indonesia,2023,Q4,2023-12-21,GenAI Export Control,In Committee,5.5,0,1,8.4,1.8,Parliamentary Record
+France,2025,Q2,2025-04-03,AI Audit Requirement,Enacted,8.1,0,0,2.9,1.5,Press Release
+Australia,2022,Q3,2022-09-03,AI Content Labelling Law,Passed,5.0,0,0,1.1,6.8,News Wire
+New Zealand,2025,Q4,2025-12-11,AI Audit Requirement,Passed,2.4,0,0,7.4,1.2,News Wire
+Sweden,2025,Q4,2025-12-20,AI Copyright Amendment,Proposed,5.9,0,0,5.1,5.0,Parliamentary Record
+India,2025,Q3,2025-08-14,AI in Education Policy,Passed,3.4,0,0,9.7,2.1,Official Gazette
+Mexico,2025,Q3,2025-07-27,Algorithmic Accountability Act,Passed,5.0,1,0,3.3,2.3,NGO Report
+United Kingdom,2023,Q1,2023-02-19,AI Workforce Reskilling Program,Proposed,9.2,1,0,6.0,8.2,Parliamentary Record
+Mexico,2024,Q2,2024-04-21,AI Ethics Board Formed,Enacted,6.6,0,0,2.7,3.1,Official Gazette
+UAE,2023,Q2,2023-04-24,AI in Healthcare Regulation,In Committee,8.9,0,0,3.5,9.9,Parliamentary Record
+Saudi Arabia,2022,Q4,2022-12-14,AI Regulatory Framework Enacted,Passed,2.5,0,0,9.1,9.7,NGO Report
+Kenya,2024,Q2,2024-05-12,AI in Healthcare Regulation,Passed,4.4,0,0,3.7,1.4,Official Gazette
+Poland,2024,Q4,2024-10-18,AI Liability Bill Introduced,Passed,6.6,1,0,4.6,4.4,NGO Report
+Australia,2024,Q1,2024-02-25,AI Liability Bill Introduced,In Committee,5.1,1,0,5.5,8.3,News Wire
+China,2024,Q4,2024-10-09,AI in Healthcare Regulation,Passed,7.8,0,0,6.2,5.5,Parliamentary Record
+Israel,2022,Q1,2022-02-03,AI Regulatory Framework Enacted,Enacted,8.9,0,1,7.7,10.0,NGO Report
+South Africa,2025,Q3,2025-07-01,AI Content Labelling Law,Proposed,3.8,0,0,2.9,9.1,Parliamentary Record
+India,2022,Q1,2022-03-27,AI Content Labelling Law,Proposed,1.3,1,1,4.9,2.7,NGO Report
+Germany,2022,Q4,2022-10-02,GenAI Moratorium Proposed,Enacted,4.2,0,0,0.1,6.3,News Wire
+Netherlands,2024,Q3,2024-08-07,AI Ethics Board Formed,Under Review,8.6,1,1,2.3,9.8,Parliamentary Record
+Poland,2025,Q2,2025-05-14,AI Liability Bill Introduced,Proposed,7.8,1,0,2.4,2.6,News Wire
+Singapore,2022,Q1,2022-01-11,AI in Education Policy,Proposed,7.5,0,0,1.8,3.1,Official Gazette
+Nigeria,2025,Q4,2025-12-04,AI Regulatory Framework Enacted,In Committee,3.4,0,0,7.2,2.3,Press Release
+Italy,2024,Q3,2024-07-14,AI Liability Bill Introduced,Proposed,3.6,0,0,9.7,7.8,NGO Report
+Australia,2025,Q4,2025-11-08,AI Procurement Standards,Proposed,6.3,0,1,2.3,4.9,Parliamentary Record
+China,2024,Q2,2024-06-07,National AI Strategy Published,In Committee,2.9,1,0,1.3,5.3,Official Gazette
+Turkey,2022,Q4,2022-12-25,AI Audit Requirement,Enacted,4.5,0,0,0.2,1.5,News Wire
+United Kingdom,2025,Q1,2025-03-02,National AI Strategy Published,Proposed,7.4,1,1,7.0,8.9,Press Release
+Indonesia,2023,Q1,2023-02-20,Deepfake Law Passed,In Committee,5.3,0,1,6.9,3.1,NGO Report
+South Africa,2025,Q1,2025-02-01,AI Workforce Reskilling Program,Proposed,9.0,0,0,2.5,8.2,Official Gazette
+New Zealand,2023,Q4,2023-12-04,Generative AI Procurement Guidelines,In Committee,4.6,0,0,1.6,2.7,NGO Report
+India,2025,Q3,2025-07-27,AI Liability Bill Introduced,Proposed,8.7,0,0,0.5,4.3,Press Release
+Turkey,2025,Q2,2025-05-19,GenAI Export Control,Passed,3.0,0,0,6.3,0.0,NGO Report
+Indonesia,2024,Q3,2024-09-01,GenAI Moratorium Proposed,Enacted,5.2,1,0,2.1,8.7,Parliamentary Record
+Nigeria,2025,Q3,2025-08-10,AI Procurement Standards,Under Review,9.1,1,0,9.6,1.8,Official Gazette
+Indonesia,2024,Q1,2024-02-02,Deepfake Law Passed,Enacted,5.6,0,0,8.5,8.3,News Wire
+Kenya,2025,Q1,2025-01-20,Algorithmic Accountability Act,Passed,5.7,1,0,9.0,2.6,Parliamentary Record
+Taiwan,2022,Q3,2022-08-23,GenAI Export Control,Passed,8.4,0,0,8.2,5.9,News Wire
+France,2025,Q1,2025-01-11,GenAI Export Control,Enacted,4.4,0,0,1.8,2.9,Official Gazette
+Kenya,2024,Q1,2024-02-07,Algorithmic Accountability Act,Enacted,4.3,1,1,4.7,7.8,Official Gazette
+Chile,2024,Q1,2024-03-26,AI Procurement Standards,Passed,6.3,0,0,0.4,2.1,NGO Report
+Japan,2024,Q2,2024-05-27,National AI Strategy Published,In Committee,2.9,0,0,8.2,7.5,Official Gazette
+Spain,2022,Q4,2022-10-04,AI Procurement Standards,In Committee,7.4,0,0,5.3,9.6,Press Release
+South Africa,2022,Q3,2022-08-15,AI Copyright Amendment,Enacted,1.1,1,0,2.6,5.5,Parliamentary Record
+Germany,2025,Q1,2025-03-06,AI Content Labelling Law,Enacted,4.6,0,0,0.8,0.4,Press Release
+Mexico,2025,Q3,2025-07-19,Border AI Inspection Policy,Proposed,4.7,0,0,8.4,0.5,NGO Report
+UAE,2023,Q4,2023-12-22,National AI Strategy Published,Enacted,4.3,0,1,6.1,1.3,Parliamentary Record
+Canada,2023,Q4,2023-10-21,Border AI Inspection Policy,In Committee,1.4,1,0,1.6,5.8,News Wire
+Sweden,2022,Q1,2022-02-07,Deepfake Law Passed,Passed,7.6,1,0,5.2,3.9,News Wire
+Turkey,2025,Q1,2025-03-24,Public AI Consultation Launched,Passed,9.1,0,0,6.0,2.3,Parliamentary Record
+South Africa,2022,Q1,2022-03-11,AI in Education Policy,Passed,9.5,0,0,0.1,3.2,NGO Report
+Saudi Arabia,2022,Q1,2022-03-20,AI Content Labelling Law,In Committee,3.7,0,0,0.4,3.8,Press Release
+Poland,2024,Q1,2024-01-02,AI Transparency Act,Enacted,1.5,1,0,0.4,4.3,News Wire
+UAE,2023,Q1,2023-03-12,AI Content Labelling Law,Enacted,7.4,0,0,9.0,0.3,NGO Report
+Singapore,2023,Q2,2023-05-04,AI in Healthcare Regulation,In Committee,3.5,0,0,3.3,3.3,NGO Report
+Spain,2022,Q4,2022-10-12,AI Liability Bill Introduced,Enacted,7.3,0,0,0.5,7.5,Official Gazette
+Turkey,2024,Q1,2024-02-02,Border AI Inspection Policy,Enacted,7.3,1,0,6.0,3.0,NGO Report
+UAE,2022,Q3,2022-08-08,AI Copyright Amendment,Enacted,7.2,0,0,8.6,8.8,Official Gazette
+Japan,2022,Q4,2022-11-10,Generative AI Procurement Guidelines,Withdrawn,7.3,0,0,3.8,8.3,Parliamentary Record
+New Zealand,2024,Q1,2024-01-10,AI Regulatory Framework Enacted,Passed,9.6,1,0,1.5,3.4,Official Gazette
+Israel,2022,Q4,2022-10-27,AI Content Labelling Law,Enacted,3.6,0,1,7.1,0.4,Parliamentary Record
+Chile,2024,Q1,2024-02-07,Algorithmic Accountability Act,Enacted,9.5,1,0,3.8,9.4,NGO Report
+France,2025,Q4,2025-11-16,GenAI Export Control,Passed,9.0,0,1,3.7,5.2,Parliamentary Record
+Japan,2024,Q2,2024-05-18,Border AI Inspection Policy,Proposed,2.8,0,0,9.7,6.6,Press Release
+Poland,2023,Q2,2023-05-03,AI Safety Agency Established,Proposed,2.0,0,0,1.9,4.6,Press Release
+China,2025,Q4,2025-11-04,Algorithmic Accountability Act,Rejected,5.2,1,0,2.3,5.4,Official Gazette
+Germany,2024,Q4,2024-11-28,AI Procurement Standards,Enacted,8.2,0,0,2.1,1.3,NGO Report
+Poland,2024,Q3,2024-09-26,Deepfake Law Passed,Enacted,5.4,0,1,2.6,6.3,Parliamentary Record
+Italy,2024,Q1,2024-01-12,AI Workforce Reskilling Program,Proposed,5.9,0,0,0.5,8.5,Official Gazette
+China,2023,Q2,2023-06-24,AI Safety Agency Established,Passed,5.7,1,0,4.1,5.1,Parliamentary Record
+Italy,2024,Q1,2024-01-04,AI Workforce Reskilling Program,Passed,8.6,0,0,1.4,6.8,Parliamentary Record
+Indonesia,2024,Q4,2024-10-18,AI Safety Agency Established,Proposed,4.9,1,0,5.2,3.8,Official Gazette
+Singapore,2022,Q1,2022-02-13,AI in Education Policy,Passed,5.4,0,0,0.9,6.7,News Wire
+Nigeria,2023,Q1,2023-01-07,National AI Strategy Published,In Committee,5.9,1,0,2.3,1.4,Official Gazette
+China,2024,Q1,2024-02-11,AI Content Labelling Law,Rejected,2.1,0,1,3.9,8.1,Press Release
+Ireland,2025,Q3,2025-07-23,GenAI Export Control,Passed,3.0,0,1,5.3,1.4,Parliamentary Record
+Ireland,2024,Q1,2024-02-01,AI Regulatory Framework Enacted,Passed,5.0,0,1,1.9,0.8,NGO Report
+Nigeria,2022,Q2,2022-06-07,National AI Strategy Published,In Committee,9.7,0,0,2.3,0.3,Official Gazette
+Singapore,2024,Q3,2024-09-16,AI in Education Policy,Enacted,4.2,1,0,1.0,9.6,Press Release
+Brazil,2024,Q1,2024-03-15,AI Ethics Board Formed,In Committee,3.7,0,0,0.5,1.8,News Wire
+China,2024,Q2,2024-06-15,AI in Healthcare Regulation,Passed,8.9,1,0,8.4,9.9,NGO Report
+Nigeria,2025,Q4,2025-10-05,AI Content Labelling Law,Passed,7.8,0,1,3.4,1.0,Parliamentary Record
+UAE,2025,Q3,2025-08-13,Algorithmic Accountability Act,Proposed,9.6,1,0,5.6,1.7,Official Gazette
+Taiwan,2024,Q1,2024-02-14,AI Liability Bill Introduced,In Committee,5.3,1,0,4.4,4.6,News Wire
+Poland,2024,Q3,2024-08-19,AI Liability Bill Introduced,Proposed,2.0,0,0,7.2,6.0,NGO Report
+India,2025,Q1,2025-02-28,GenAI Export Control,Enacted,7.0,0,0,2.8,7.7,Parliamentary Record
+South Africa,2024,Q4,2024-11-14,AI Audit Requirement,Proposed,6.9,0,0,5.0,3.9,News Wire
+India,2022,Q1,2022-01-06,GenAI Export Control,Enacted,3.5,1,0,1.3,1.5,News Wire
+Canada,2022,Q2,2022-04-19,AI Copyright Amendment,Passed,3.8,1,0,1.5,3.7,News Wire
+India,2025,Q2,2025-06-01,Deepfake Law Passed,Proposed,8.8,0,0,7.4,9.7,Official Gazette
+Brazil,2023,Q4,2023-12-05,Border AI Inspection Policy,Enacted,6.5,0,0,5.9,5.6,Official Gazette
+South Korea,2024,Q3,2024-08-19,GenAI Moratorium Proposed,Enacted,3.5,1,0,9.0,6.7,Press Release
+Poland,2024,Q4,2024-10-23,AI Transparency Act,Enacted,1.8,0,0,2.9,8.5,Press Release
+Israel,2022,Q1,2022-03-19,AI Content Labelling Law,Enacted,3.3,1,0,0.5,1.6,Press Release
+Saudi Arabia,2025,Q4,2025-10-11,AI Ethics Board Formed,Rejected,9.3,1,0,4.9,8.4,Parliamentary Record
+Poland,2024,Q3,2024-09-19,AI Transparency Act,Enacted,7.7,1,0,2.1,6.5,News Wire
+China,2022,Q4,2022-10-25,AI Audit Requirement,In Committee,5.1,0,0,2.7,4.4,Official Gazette
+Germany,2025,Q2,2025-06-20,AI Regulatory Framework Enacted,In Committee,6.4,0,0,9.5,0.3,News Wire
+France,2025,Q2,2025-04-14,Public AI Consultation Launched,In Committee,3.7,0,0,6.7,1.4,Press Release
+Japan,2025,Q1,2025-01-06,AI Liability Bill Introduced,In Committee,3.5,0,0,8.6,9.9,NGO Report
+Canada,2024,Q1,2024-03-15,Algorithmic Accountability Act,Passed,1.6,1,0,1.7,8.3,Parliamentary Record
+China,2025,Q4,2025-12-06,Deepfake Law Passed,In Committee,7.1,1,1,9.4,5.4,Press Release
+Brazil,2025,Q2,2025-05-19,AI in Healthcare Regulation,In Committee,6.7,0,1,5.5,0.1,News Wire
+France,2023,Q3,2023-07-16,Border AI Inspection Policy,Proposed,7.5,0,0,2.2,0.1,News Wire
+Spain,2025,Q3,2025-09-15,Border AI Inspection Policy,Under Review,8.3,0,1,8.4,3.0,Parliamentary Record
+Kenya,2024,Q1,2024-02-18,AI Safety Agency Established,Proposed,3.7,0,0,7.7,6.4,Official Gazette
+Nigeria,2025,Q4,2025-10-02,National AI Strategy Published,In Committee,1.6,1,0,7.5,7.4,Parliamentary Record
+Brazil,2025,Q2,2025-05-23,AI Liability Bill Introduced,Enacted,3.3,1,0,3.3,2.1,Press Release
+Turkey,2024,Q3,2024-08-18,AI Liability Bill Introduced,Rejected,7.3,1,0,9.3,6.2,Press Release
+Poland,2024,Q2,2024-05-19,AI Regulatory Framework Enacted,Passed,5.7,0,0,6.7,0.7,NGO Report
+Israel,2022,Q4,2022-10-06,AI Workforce Reskilling Program,In Committee,5.6,1,1,9.5,2.5,NGO Report
+Canada,2022,Q1,2022-02-06,AI Liability Bill Introduced,Withdrawn,2.9,1,0,7.7,1.8,Official Gazette
+UAE,2024,Q4,2024-10-17,Generative AI Procurement Guidelines,Under Review,9.1,0,0,7.5,3.6,Official Gazette
+New Zealand,2023,Q2,2023-06-14,AI Content Labelling Law,Passed,4.2,0,0,4.5,1.1,News Wire
+France,2022,Q4,2022-10-23,AI Procurement Standards,Enacted,1.6,0,0,1.7,3.9,Official Gazette
+Ireland,2024,Q4,2024-10-13,AI in Education Policy,Enacted,5.8,0,0,6.7,2.0,Parliamentary Record
+Canada,2023,Q3,2023-09-26,National AI Strategy Published,In Committee,5.0,0,0,9.1,8.1,Parliamentary Record
+UAE,2023,Q2,2023-06-28,AI Copyright Amendment,Under Review,5.0,1,0,6.0,4.3,News Wire
+Canada,2022,Q1,2022-03-28,AI Copyright Amendment,Withdrawn,1.8,0,1,8.1,1.2,Parliamentary Record
+Israel,2024,Q1,2024-01-14,Generative AI Procurement Guidelines,Proposed,6.5,0,0,7.1,7.0,Official Gazette
+Brazil,2023,Q4,2023-10-16,AI Copyright Amendment,Under Review,8.9,0,1,9.9,8.6,Press Release
